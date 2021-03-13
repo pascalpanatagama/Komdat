@@ -70,7 +70,7 @@ $ rm /etc/nginx/sites-enabled/default
 13. Buka file /etc/nginx/sites-available/grocy.
 ```
 $ editor /etc/nginx/sites-available/grocy
-``
+```
 14. Edit file tersebut menjadi seperti di bawah. Pastikan versi PHP sama dengan yang terinstal di komputermu.
 ```
 server {
@@ -106,6 +106,7 @@ server {
 $ systemctl restart nginx.service
 ```
 16. Buka localhost di browser. Halaman grocy seharusnya sudah dapat diakses.
+
 
 ## Konfigurasi (opsional)
 
