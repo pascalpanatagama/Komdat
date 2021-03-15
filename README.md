@@ -201,9 +201,15 @@ Bagian ini akan menampilkan aplikasi web grocy yang sudah diinstal. Fitur-fitur 
 
 ## Stock Overview
 
+12. Sebelum melihat barang di Stock Overview, tekan tombol "Add this item to stock" di bagian Shopping List dari produk yang sudah ditambahkan.
+
 ![4](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/4%20Shopping%20list%20to%20stock.png)
 
+13. Isi kebutuhan yang diperlukan. Kemudian tekan tombol "OK"
+
 ![4.1](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/4.1%20save%20to%20stock.png)
+
+14. Barang dari bagian Shopping List sudah menjadi Stock.
 
 ![4.2](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/4.2%20stock%20display.png)
 
