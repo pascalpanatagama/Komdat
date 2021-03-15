@@ -148,42 +148,55 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 Bagian ini akan menampilkan aplikasi web grocy yang sudah diinstal. Fitur-fitur yang akan dicoba adalah fitur Login, Shopping List, dan Stock Overview.
 
 ## Halaman login
-1. Login dengan username dan passwordmyang sesuai
+1. Login dengan username dan password yang sesuai.
+
 ![1](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/1.png)
 
 ## Tampilan awal
 2. Setelah login berhasil, akan ditampilkan tampilan awal yaitu bagian Stock Overview.
+
 ![2](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/2%20tampilan%20awal.png)
 
 ## Shopping List
+
 3. Sebelum melihat Stock Overview, perlu ditambahkan barang-barang dari Shopping List. Untuk menambahkan barang, tekan tombol biru "Add item".
+
 ![3](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/3%20shopping%20list.png)
 
 ### Tambah Item pertama kali
-4.
+
+4. Untuk tambah item pertama kali, isi nama produk yang diinginkan, kemudian tekan enter.
+
 ![3.3.0](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/3.3.0.png)
 
-5.
+5. Setelah enter ditekan, akan muncul dialog box/modal seperti gambar di bawah. Pilih "Add a new product" untuk menambah produk baru.
+
 ![3.3](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/3.3%20Produk%20baru.png)
 
-6.
+6. Beri nama produk dan kebutuhan lainnya sesuai keinginan.
+
 ![3.4](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/3.4%20isi%20keterangan%20produk%20baru.png)
 
-7.
+7. Jika sudah selesai, tekan tombol "Save & continue"
+
 ![3.5](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/3.5%20isi%20keterangan%20produk%20baru.png)
 
-8.
+8. Produk sudah terbuat. Isi kebutuhan yang diperlukan. Tekan tombol "Save" untuk menyimpan produk.
+
 ![3.6](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/3.6%20add%20produk%20baru.png)
 
-9.
+9. Produk baru sudah ditambahkan.
+
 ![3.7](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/3.7%20after%20add.png)
 
 ### Tambah item yang sudah terdaftar
 
-10. Kemudian buat barang untuk Shopping List. Beri nama produk tersebut, misalnya "Kecap". Tulis Note jika diperlukan. Jika sudah selesai, tekan tobol "Save".
+10. Jika produk sudah bernah di tambah, tidak perluh mengikuti langkah-langkah di atas lagi. Beri nama produk tersebut, misalnya "Kecap". Tulis Note jika diperlukan. Jika sudah selesai, tekan tobol "Save".
+
 ![3.1](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/3.1%20add%20item.png)
 
-11. Kecap sudah ditambahkan di Shopping List. Catatan : Produk Kecap sebelumnya sudah pernah dibuat, Jika produk yang ditambahkan belum pernah dibuat maka perlu dibuat dulu untuk pertama kali.
+11. Kecap sudah ditambahkan di Shopping List. Catatan : Produk Kecap sebelumnya sudah pernah dibuat, Jika produk yang ditambahkan belum pernah dibuat maka perlu dibuat dulu untuk pertama kali seperti langkah di atas.
+
 ![3.2](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/3.2%20after%20add.png)
 
 ## Stock Overview
