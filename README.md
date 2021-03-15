@@ -220,5 +220,5 @@ Bagian ini akan menampilkan aplikasi web grocy yang sudah diinstal. Fitur-fitur 
 
 Cantumkan tiap sumber informasi yang anda pakai.
 
-1. [Grocy-ERP beyond your fridge]
+1. [Grocy-ERP beyond your fridge](https://grocy.info/)
 2. [Instalasi grocy](https://github.com/grocy/grocy/issues/649)
