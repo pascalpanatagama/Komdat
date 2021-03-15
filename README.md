@@ -50,7 +50,7 @@ $ cp /var/www/html/config-dist.php /var/www/html/data/config.php
 $ vi /var/www/html/data/config.php
 ```
 7. Test instalasi nginx dengan membuka http://localhost. Halaman default dari nginx landing page akan tertampilkan.
-8. Selanjutnya adalah konvigurasi server dan php.
+8. Selanjutnya adalah konfigurasi server dan php.
 9. Buat file fastcgi_params di direktori /etc/nginx/conf.d/ untuk setup sistem.
 ```
 $ touch /etc/nginx/conf.d/fastcgi_params
