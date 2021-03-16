@@ -201,16 +201,13 @@ Berfungsi untuk merencanakan makanan harian berdasarkan resep yang ada
 - Batteries overview <br>
 Berfungsi untuk merencanakan pengisian baterai sehingga dapat diketahui berapa lama lagi baterai akan diisi
 
-    - kekurangan
-- Bandingkan dengan aplikasi web lain yang sejenis
-
-Grocy merupakan salah satu aplikasi ERP (Enterprise Resource Planning) untuk memudahkan kebutuhan mengatur stok bahan makanan di rumah.
-Kelebihan dari Grocy adalah :
-
-
 Kekurangan yang dimiliiki Grocy :
 - Kurang user friendly untuk penggunaan pertama.
 - Terlalu banyak input ketika pendataan produk
+
+Jika dibandingkan dengan aplikasi Resource Planning lainnya seperti farmOS, ada hal yang dapat diperhatikan dari kedua aplikasi ini.
+- farmOS mengurus masalah manajemen pertanian, sedangkan grocy mengurus masalah manajemen stok bahan rumah tangga.
+- farmOs menggunakan map untuk pendataan wilayah pertanian, sedangkan grocy mayoritas menggunakan tabel untuk pendataannya.
 
 
 ## Referensi
