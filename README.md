@@ -223,5 +223,6 @@ Jika dibandingkan dengan aplikasi Resource Planning lainnya seperti **farmOS**, 
 
 Cantumkan tiap sumber informasi yang anda pakai.
 
-1. [Grocy-ERP beyond your fridge](https://grocy.info/)
-2. [Instalasi grocy](https://github.com/grocy/grocy/issues/649)
+1. [Grocy-ERP beyond your fridge](https://grocy.info/) - Grocy
+2. [Instalasi grocy](https://github.com/grocy/grocy/issues/649) - Github
+3. [Grocy github](https://github.com/grocy/grocy) - Github
