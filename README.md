@@ -201,13 +201,22 @@ Berfungsi untuk merencanakan makanan harian berdasarkan resep yang ada
 - Batteries overview <br>
 Berfungsi untuk merencanakan pengisian baterai sehingga dapat diketahui berapa lama lagi baterai akan diisi
 
+Kelebihan yang dimiliki Grocy :
+- Melacak/mendata pembelian lebih mudah ditambah dengan fitur scan barcode.
+- Optimisasi list belanja dengan melihat stok minimum yang diperlukan
+- Pendata bahan yang kadaluwarsa.
+- Pengganti buku resep
+- Dibuat untuk banyak perangkat (Komputer, HP, Raspberry Pi)
+
 Kekurangan yang dimiliiki Grocy :
 - Kurang user friendly untuk penggunaan pertama.
 - Terlalu banyak input ketika pendataan produk
 
-Jika dibandingkan dengan aplikasi Resource Planning lainnya seperti farmOS, ada hal yang dapat diperhatikan dari kedua aplikasi ini.
-- farmOS mengurus masalah manajemen pertanian, sedangkan grocy mengurus masalah manajemen stok bahan rumah tangga.
-- farmOs menggunakan map untuk pendataan wilayah pertanian, sedangkan grocy mayoritas menggunakan tabel untuk pendataannya.
+Jika dibandingkan dengan aplikasi Resource Planning lainnya seperti **farmOS**, ada hal yang dapat diperhatikan dari kedua aplikasi ini.
+- **farmOS** mengurus masalah manajemen pertanian, sedangkan **grocy** mengurus masalah manajemen stok bahan rumah tangga.
+- **farmOs** menggunakan map untuk pendataan wilayah pertanian, sedangkan **grocy** mayoritas menggunakan tabel untuk pendataannya.
+- Aplikasi mobile **farmOs** masih dalam pengembangan, sedangkan aplikasi mobile **grocy** sudah dirilis di android.
+- Akses penggunaan plugin **farmOS** masih kurang, sedangkan plugin pada **grocy** sudah banyak. 
 
 
 ## Referensi
