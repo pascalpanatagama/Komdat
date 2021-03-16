@@ -8,8 +8,7 @@
 
 # Sekilas Tentang
 
-Deskripsi singkat tentang aplikasi tsb.
-
+      Grocy adalah sebuah aplikasi ERP (Enterprise Resource Planning) berbasis web untuk mengatur kebutuhan bahan makanan rumah tangga di rumah dan bersifat Open Source. Grocy dikembangkan oleh Berrnd Bestel dengan motivasinya yaitu manajemen rumah tangga yang lengkap.
 
 # Instalasi
 
@@ -221,6 +220,7 @@ Bagian ini akan menampilkan aplikasi web grocy yang sudah diinstal. Fitur-fitur 
     - kekurangan
 - Bandingkan dengan aplikasi web lain yang sejenis
 
+      
 
 ## Referensi
 
