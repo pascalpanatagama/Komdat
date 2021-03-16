@@ -114,10 +114,6 @@ $ systemctl restart nginx.service
 
 # Cara Pemakaian
 
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
-
 Bagian ini akan menampilkan aplikasi web grocy yang sudah diinstal. Fitur-fitur yang akan dicoba adalah fitur Login, Shopping List, dan Stock Overview.
 
 ## Halaman login
