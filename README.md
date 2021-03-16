@@ -199,7 +199,7 @@ Berfungsi untuk mengelola resep dan mendeteksi apakah semua bahan makanan yang t
 - Meal plan
 Berfungsi untuk merencanakan makanan harian berdasarkan resep yang ada
 - Batteries overview
-      Berfungsi untuk merencanakan pengisian baterai sehingga dapat diketahui berapa lama lagi baterai akan diisi
+Berfungsi untuk merencanakan pengisian baterai sehingga dapat diketahui berapa lama lagi baterai akan diisi
 
     - kekurangan
 - Bandingkan dengan aplikasi web lain yang sejenis
