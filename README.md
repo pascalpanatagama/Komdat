@@ -189,16 +189,16 @@ Bagian ini akan menampilkan aplikasi web grocy yang sudah diinstal. Fitur-fitur 
 
 ## Pembahasan
 
-Grocy merupakan aplikasi berbasis web yang berguna untuk mengatur persediaan bahan makanan serta peralatan rumah. Beberapa fitur yang terdapat di Grocy adalah sebagai berikut : 
-      -Stock overview
-      Berfungsi untuk melihat kapan bahan makanan akan habis, terlambat beli, expired, dan jumlahnya dibawah minimum yang ditentukan
-      -Shopping list
-      Berfungsi untuk menambahkan suatu bahan makanan yang akan diatur persediaan nya dalam suatu waktu
-      -Recipes
-      Berfungsi untuk mengelola resep dan mendeteksi apakah semua bahan makanan yang terdapat di resep tersedia atau tidak, jika tidak tersedia maka otomatis akan masuk ke   Shopping list
-      -Meal plan
-      Berfungsi untuk merencanakan makanan harian berdasarkan resep yang ada
-      -Batteries overview
+Grocy merupakan aplikasi berbasis web yang berguna untuk mengatur persediaan bahan makanan serta peralatan rumah. Beberapa fitur yang terdapat di Grocy adalah sebagai berikut :
+- Stock overview
+Berfungsi untuk melihat kapan bahan makanan akan habis, terlambat beli, expired, dan jumlahnya dibawah minimum yang ditentukan
+- Shopping list
+Berfungsi untuk menambahkan suatu bahan makanan yang akan diatur persediaan nya dalam suatu waktu
+- Recipes
+Berfungsi untuk mengelola resep dan mendeteksi apakah semua bahan makanan yang terdapat di resep tersedia atau tidak, jika tidak tersedia maka otomatis akan masuk ke   Shopping list
+- Meal plan
+Berfungsi untuk merencanakan makanan harian berdasarkan resep yang ada
+- Batteries overview
       Berfungsi untuk merencanakan pengisian baterai sehingga dapat diketahui berapa lama lagi baterai akan diisi
 
     - kekurangan
