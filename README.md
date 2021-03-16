@@ -194,6 +194,13 @@ Bagian ini akan menampilkan aplikasi web grocy yang sudah diinstal. Fitur-fitur 
     - kekurangan
 - Bandingkan dengan aplikasi web lain yang sejenis
 
+Grocy merupakan salah satu aplikasi ERP (Enterprise Resource Planning) untuk memudahkan kebutuhan mengatur stok bahan makanan di rumah.
+Kelebihan dari Grocy adalah :
+
+
+Kekurangan yang dimiliiki Grocy :
+- Kurang user friendly untuk penggunaan pertama.
+- Terlalu banyak input ketika pendataan produk
 
 
 ## Referensi
