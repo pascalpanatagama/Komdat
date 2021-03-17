@@ -78,6 +78,10 @@ $ editor /etc/nginx/sites-available/grocy
 14. Edit file tersebut menjadi seperti di bawah. Pastikan versi PHP sama dengan yang terinstal di komputermu.
 ```
 server {
+      # setting for port 8558
+      listen 8558 default_server;
+      listen [::]:8558 default_server;
+      
       root /var/www/html/public;
 
       # Add index.php to the list if you are using PHP
@@ -93,15 +97,11 @@ server {
       }
 
       # pass PHP scripts to FastCGI server
-      #
       location ~ \.php$ {
               include snippets/fastcgi-php.conf;
 
               # With php-fpm (or other unix sockets):
               fastcgi_pass unix:/var/run/php/php7.4-fpm.sock;  # need to edit this!
-
-      #       # With php-cgi (or other tcp sockets):
-      #       # fastcgi_pass 127.0.0.1:9000:
       }
 }
 ```
