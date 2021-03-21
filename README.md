@@ -19,6 +19,16 @@ Grocy adalah sebuah aplikasi ERP (Enterprise Resource Planning) berbasis web unt
 - PHP 7.2+
 - SQLite 3.9.0+
 
+### Konfigurasi Virtual Machine
+
+#### Setting port forwarding VM.
+
+Di virtualBox, pilih *Settings* -> *Network* -> *Advanced* -> *Port Forwarding*. <br>
+Tambahkan aturan sebagai berikut : <br>
+![VM](https://github.com/pascalpanatagama/Komdat/blob/main/Grocy/5.%20Konfigurasi%20VM.png)
+<br>
+Tekan *OK*.
+
 ### Langkah instalasi di CLI
 
 1. Akses CLI / buka terminal.
