@@ -16,8 +16,8 @@ Grocy adalah sebuah aplikasi ERP (Enterprise Resource Planning) berbasis web unt
 
 - Ubuntu 20.04 
 - Nginx
-- PHP 7.0+
-- SQLite
+- PHP 7.2+
+- SQLite 3.9.0+
 
 ### Langkah instalasi di CLI
 
